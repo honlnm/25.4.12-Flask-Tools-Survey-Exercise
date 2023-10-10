@@ -1,6 +1,6 @@
 # Springboard Instructions
 
-# NOTE: 25.3.10 Exercise is steps 0 - 7 only.
+# NOTE: 25.4.12 is step 8 only. The rest/start was copied from the 25.3.10-Flask-Tools-Survey-Exercise respository.
 
 # Flask Tools: Survey
 
